@@ -25,4 +25,4 @@ jobs:
         run: mypy api_manager.py
 
       - name: Run Tests with Coverage
-        run: pytest --cov=your_code test_api.py
+        run: pytest --cov=api_manager test_api.py
