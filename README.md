@@ -15,7 +15,7 @@ This Python application demonstrates an Object-Oriented approach to interact wit
 Ensure you have Python 3.10 or higher installed on your machine. Clone this repository and navigate into the project directory:
 
 ```bash
-git clone https://github.com/PantelisStefanakis/IAssignment.git
+git clone https://github.com/InterviewAssignmentsDK/IAssignment.git
 cd IAssignment
 ```
 
